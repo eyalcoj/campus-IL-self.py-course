@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2a1195-4c22-40c5-b0d0-ec3be9493c67" name="Changes" comment="finish all the code, need final refinement" />
+    <list default="true" id="fc2a1195-4c22-40c5-b0d0-ec3be9493c67" name="Changes" comment="finish all the code, need final refinement">
+      <change beforePath="$PROJECT_DIR$/All other/__init__.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749169445655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish all the code, need final refinement">
+      <option name="closed" value="true" />
+      <created>1749170460405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749170460405</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
