@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2a1195-4c22-40c5-b0d0-ec3be9493c67" name="Changes" comment="finish all the code, need final refinement">
-      <change beforePath="$PROJECT_DIR$/All other/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fc2a1195-4c22-40c5-b0d0-ec3be9493c67" name="Changes" comment="finish all the code, need final refinement" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
